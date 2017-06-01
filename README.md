@@ -4,7 +4,7 @@ Team project for the Embedded Systems course (Computer Science, BSc).
 
 By [Fabio Nicolini](https://github.com/fnicolini) and [Antonio Vivace](https://github.com/avivace).
 
-The development board used is the Silicon Labs **C8051F020**, with an additional board (driven via SMBus) with an accelerometer, a thermometer and an LCD display. The project was developed using Silicon Lab's Keil IDE.
+The development board used is the Silicon Labs [**C8051F020**](https://www.silabs.com/documents/public/data-sheets/C8051F02x.pdf) and an additional board (driven via SMBus) with an accelerometer, a thermometer and an LCD display. The project was developed using Silicon Lab's Keil IDE.
 
 The project implements:
 
