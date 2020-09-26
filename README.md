@@ -1,6 +1,6 @@
 # Embedded Systems
 
-Team project for the Embedded Systems course (Computer Science, BSc).
+Team project for the Embedded Systems course ([Computer Science, BSc](https://github.com/avivace/compsci).
 
 By [Fabio Nicolini](https://github.com/fnicolini) and [Antonio Vivace](https://github.com/avivace).
 
